@@ -1,0 +1,14 @@
+{
+  "name": "core-craft-service",
+  "version": "1.0.0",
+  "description": "Backend API Service for Core Craft Technologies",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": ["construction", "bim", "engineering", "api"],
+  "author": "",
+  "license": "ISC"
+}
+
