@@ -44,15 +44,23 @@ export default function Footer() {
             <span className="block text-stone-400 text-xs font-bold tracking-[0.2em] uppercase mb-2">
               OFFICES
             </span>
-            <p className="text-stone-700 text-sm font-medium leading-relaxed mb-1">
+            <p className="text-stone-700 text-sm font-medium leading-relaxed mb-2">
               Mishan Mahadewa, Siwan, Bihar 841226, India
             </p>
-            <a 
-              href="mailto:info@ganapatiganeshconstruction.com" 
-              className="text-stone-700 hover:text-emerald-700 text-sm font-medium transition-colors block"
-            >
-              info@ganapatiganeshconstruction.com
-            </a>
+            <div className="space-y-1">
+              <a 
+                href="mailto:info@ganapatiganeshconstruction.com" 
+                className="text-stone-700 hover:text-emerald-700 text-sm font-medium transition-colors block"
+              >
+                info@ganapatiganeshconstruction.com
+              </a>
+              <a 
+                href="mailto:piyush.k@ganapatiganeshconstruction.com" 
+                className="text-stone-700 hover:text-emerald-700 text-sm font-medium transition-colors block"
+              >
+                piyush.k@ganapatiganeshconstruction.com
+              </a>
+            </div>
           </div>
 
         </div>

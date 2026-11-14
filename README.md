@@ -87,6 +87,6 @@ Runs the Vite development server with Hot Module Replacement (HMR) on `http://lo
 6. **Why Choose Core Craft Technologies**: Forest green overlay card highlighting Industry Expertise, Quality & Precision, Risk Reduction, and End-to-End Support.
 7. **What Our Clients Say**: Client project testimonial from India with interactive carousel indicator dots.
 8. **Call To Action**: `Let's Build Something Exceptional Together` floating banner over city skyline.
-9. **Footer**: Office address (Mishan Mahadewa, Siwan, Bihar 841226, India), contact number (+91 9136226996), and corporate credentials.
+9. **Footer**: Office address (Mishan Mahadewa, Siwan, Bihar 841226, India), contact number (+91 9136226996), email contacts (info@ganapatiganeshconstruction.com, piyush.k@ganapatiganeshconstruction.com), and corporate credentials.
 10. **Interactive Modal**: Functional quote submission form with field validation and backend synchronization.
 
